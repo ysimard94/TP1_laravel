@@ -4,12 +4,12 @@ Ceci est un projet Laravel utilisant une base de données MySQL. Il a pour but d
 
 ## Installation
 
-### Utiliser la commande suivante pour installer les dépendances nécessaires dans le terminal à la racine du projet :
+## Utiliser la commande suivante pour installer les dépendances nécessaires dans le terminal à la racine du projet :
 composer install
 
-### Utiliser les requêtes dans le fichier database.sql à la racine pour créer la base de données avec les données de base.
+## Utiliser les requêtes dans le fichier database.sql à la racine pour créer la base de données avec les données de base.
 
-### Créer un fichier .htaccess à la racine avec ce contenu :
+## Créer un fichier .htaccess à la racine avec ce contenu :
 
 <IfModule mod_rewrite.c>
 <IfModule mod_negotiation.c>
